@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Trajectories analysis using NNs methods
-description: Here we share a method to classify trajectories based on various properties of trajectories, such as ergodic/non-ergodic. We intend to classify trajectories between different types, such as CTRW, LW etc. 
+description: Here we share a method to classify trajectories based on their spatial and temporal properties, such as ergodicity, time-averages and so on. We intend to classify trajectories between different types, such as continuous time random walk (CTRW), Levy Walks (LW) etc. 
 This work is inspired by the ANDI challenge https://competitions.codalab.org/competitions/23601#learn_the_details-the-andi-workshop
 github_username: Liyubov and Remy
 # you can comment the below line out if your repo name is not different than your baseurl
